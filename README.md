@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Olá,%20eu%20sou%20[SEU%20NOME]!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+constante+evolução;Apaixonado+por+programação;C%23+%7C+Python+%7C+PHP+%7C+SQL;HTML+%7C+CSS;Transformando+ideias+em+código+%F0%9F%9A%80" alt="Typing SVG"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Olá,%20eu%20sou%20Caio!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+constante+evolução;Apaixonado+por+programação;C%23+%7C+Python+%7C+PHP+%7C+SQL;HTML+%7C+CSS;Transformando+ideias+em+código+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br><br>
 
@@ -9,9 +9,9 @@ Olá! Eu sou Caio 👋
 
 Sou apaixonado por tecnologia e programação e estou sempre buscando aprender, praticar e evoluir minhas habilidades.
 
-Tenho conhecimentos em desenvolvimento de aplicações, desenvolvimento web e banco de dados, utilizando diferentes tecnologias para transformar ideias em projetos funcionais.
+Tenho conhecimentos em C#, Python, PHP, HTML, CSS e SQL, utilizando essas tecnologias para desenvolver aplicações, projetos web e soluções envolvendo banco de dados.
 
-Meu objetivo é continuar evoluindo como desenvolvedor, criando projetos cada vez melhores e explorando novas tecnologias.
+Estou sempre buscando novos desafios para colocar meus conhecimentos em prática e continuar evoluindo como desenvolvedor.
 
 🧠 Tecnologias
 <div align="center">
@@ -39,7 +39,7 @@ Tecnologia	Conhecimento
 </div>
 📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&border_radius=15"/> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=false&border_radius=15" /> </div>
-🚀 Objetivos
+🚀 Meus objetivos
 <div align="center">
 📚 Aprender novas tecnologias
         ↓
@@ -54,7 +54,9 @@ Tecnologia	Conhecimento
 </div>
 📂 Projetos
 
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado e evolução na programação.
+Aqui você encontrará alguns dos projetos que venho desenvolvendo durante minha jornada como programador.
+
+Estou constantemente criando novos projetos para colocar meus conhecimentos em prática e explorar novas tecnologias.
 
 <div align="center">
 
