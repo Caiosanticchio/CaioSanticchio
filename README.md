@@ -4,7 +4,7 @@
 <p> <i>Transformando ideias em código e buscando sempre evoluir como desenvolvedor.</i> </p> </div>
 👋 Sobre mim
 
-Olá! Eu sou [SEU NOME], um desenvolvedor apaixonado por tecnologia, programação e criação de soluções.
+Olá! Eu sou Caio, um desenvolvedor apaixonado por tecnologia, programação e criação de soluções.
 
 Tenho conhecimentos em desenvolvimento de aplicações, desenvolvimento web e banco de dados, utilizando diferentes linguagens e tecnologias para transformar ideias em projetos funcionais.
 
