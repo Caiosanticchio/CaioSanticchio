@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Olá, eu sou Caio!
 
-<!--
-**Caiosanticchio/CaioSanticchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia e programação.
 
-Here are some ideas to get you started:
+Tenho conhecimento em desenvolvimento de software e web, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e conhecimentos
+💜 C#
+🌐 HTML
+🎨 CSS
+🐍 Python
+🗄️ SQL
+🐘 PHP
+📚 Sobre mim
+
+Estou sempre buscando evoluir como desenvolvedor, colocando meus conhecimentos em prática através de projetos e estudos.
+
+Tenho interesse em desenvolvimento de aplicações, sistemas web e soluções que utilizem tecnologia para resolver problemas do dia a dia.
+
+🛠️ Tecnologias
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
+📈 Em constante aprendizado
+
+"A melhor maneira de aprender programação é programando."
+
+Estou sempre estudando e desenvolvendo novos projetos para melhorar minhas habilidades e conhecer novas tecnologias.
+
+📫 Contato
+
+Sinta-se à vontade para entrar em contato comigo ou conferir meus projetos aqui no GitHub!
+
+⭐ Obrigado por visitar meu perfil!
